@@ -2,7 +2,7 @@
  
 public class testJenkins {
     public static void main(String[] args) {
-        System.out.println("updated Hello from jenkins from Rohit Gupta");
+        System.out.println(" Hello jenkins from Rohit Gupta");
     }
 }
 
